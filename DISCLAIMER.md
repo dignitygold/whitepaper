@@ -1,9 +1,14 @@
-Disclaimer
+Legal Disclaimer
+Version 1.0
 
-This repository and its contents are provided for informational purposes only. Nothing contained herein constitutes an offer to sell, or a solicitation of an offer to buy, any securities, tokens, or financial instruments.
+This repository and all documents contained herein are provided for informational and reference purposes only. They do not constitute an offer, solicitation, recommendation, or endorsement of any securities, digital assets, investment products, or financial instruments.
 
-DIGau and related materials may be subject to regulatory restrictions depending on jurisdiction. Any offering, if conducted, will be made solely pursuant to applicable legal documentation and in compliance with relevant laws and regulations.
+Dignity Gold, DIGau, and any related digital assets are not intended to represent equity interests, ownership rights, profit-sharing arrangements, or claims to dividends. Nothing contained in this repository should be interpreted as creating any contractual, fiduciary, or advisory relationship between Dignity Gold and any reader or participant.
 
-No representations or warranties are made regarding the accuracy, completeness, or future performance of the project. Forward-looking statements are inherently subject to risks, uncertainties, and changes in circumstances.
+Digital assets involve significant risk. Market prices may be volatile, and the value of digital assets can fluctuate materially or become worthless. Regulatory treatment of digital assets varies by jurisdiction and may change over time. Legal, tax, technological, operational, and market risks may impact the availability, transferability, or value of digital assets.
 
-Nothing in this repository should be interpreted as investment, legal, tax, or financial advice. Prospective participants should consult their own professional advisors before making any decisions.
+No representations or warranties are made regarding the accuracy, completeness, or timeliness of the information contained in this repository. Forward-looking statements, where included, are subject to uncertainties and risks that may cause actual outcomes to differ materially from any expressed or implied expectations.
+
+Nothing in this repository constitutes legal, financial, tax, or investment advice. Readers are solely responsible for conducting their own due diligence and for seeking professional advice appropriate to their jurisdiction and circumstances.
+
+By accessing or using this repository, the reader acknowledges and accepts the foregoing limitations and disclaimers.
