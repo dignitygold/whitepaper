@@ -1,31 +1,42 @@
-Tokenomics Overview
+Dignity Gold Tokenomics Overview
+Version 1.0
 
-Total Supply
+Overview
 
-The maximum and total supply of DIGau is fixed at 3,000,000,000 tokens. No additional tokens beyond this cap are planned. Of the total supply, 2,946,000,000 tokens have been minted. The remaining 54,000,000 tokens are reserved for controlled future issuance.
+This document provides a high-level overview of the tokenomics framework for DIGau, the primary digital asset within the Dignity Gold ecosystem. The purpose of this disclosure is to provide transparency regarding token supply, allocation categories, issuance discipline, and funding context. This document should be read in conjunction with the Dignity Gold Public Whitepaper and accompanying legal disclaimers.
 
-Token Allocation
+Total Token Supply
 
-The allocation of DIGau reflects historical continuity, long-term stewardship, and future ecosystem requirements.
+The maximum total supply of DIGau is fixed at three billion tokens. No additional tokens beyond this maximum supply are intended to be created. Token supply parameters are designed to provide long-term predictability and to avoid inflationary dynamics that could undermine ecosystem stability.
 
-600,000,000 tokens are allocated to founders, representing long-term alignment with the project and its execution.
+Token Allocation Structure
 
-400,000,000 tokens are allocated to insiders, early participants, and strategic stakeholders involved in the project’s restructuring and development.
+The total DIGau supply is allocated across several defined categories reflecting historical participation, governance, ecosystem development, and future capital formation. Founder allocation represents a portion of the supply reserved for founding contributors and long-term project stewardship. Insider and investor allocations reflect participation by early supporters and strategic stakeholders.
 
-1,300,000,000 tokens are allocated to legacy holders from prior token contracts. These tokens are restricted, non-transferable, and excluded from open market trading. They may only be acquired through company-initiated buybacks and are not intended to enter public circulation.
+A significant portion of the supply is allocated to legacy token holders associated with the project’s earlier phase. These tokens are subject to transfer restrictions and are not freely tradable on open markets. The company retains exclusive discretion with respect to any potential repurchase or retirement of these tokens, and they are not intended to contribute to circulating supply.
 
-646,000,000 tokens are allocated to monetization and ecosystem programs, including incentives, partnerships, and long-term growth initiatives. These tokens are currently locked and subject to internal release controls.
+Additional allocations are designated for ecosystem monetization programs, strategic initiatives, and long-term development. These tokens are subject to lockups and controlled release mechanisms consistent with governance policies.
 
-54,000,000 tokens remain unminted and reserved for future issuance under controlled conditions.
+Unminted Supply
 
-Supply Schedule
+A portion of the maximum supply remains unminted. Of this unminted allocation, a majority has already been pledged for specific regulatory or jurisdictional purposes. The remaining unminted tokens are reserved for future private placements and capital formation initiatives. Any such issuance is subject to governance approval and compliance considerations.
 
-Of the 54,000,000 unminted tokens, 38,000,000 tokens have already been pledged to a regulatory-aligned tranche and are not considered available supply. The remaining 16,000,000 tokens are reserved for future strategic placements.
+Circulating Supply Considerations
 
-No inflationary issuance mechanism exists. Any future issuance will follow a measured and milestone-driven approach aligned with operational progress and value creation.
+Circulating supply represents tokens that are actively available for transfer and trading in the market. Circulating supply excludes restricted, locked, or otherwise non-transferable tokens. As a result, circulating supply may differ materially from total supply. The project emphasizes transparency in distinguishing between issued, circulating, and restricted tokens.
 
 Funding Context
 
-To date, the project has raised 25 million USD, consisting of founder capital and external investment.
+To date, the project has been supported by founder capital contributions and strategic investments. Future funding initiatives are expected to be conducted through limited private placements rather than public offerings. Proceeds from any such initiatives are intended to support operational development, asset advancement, and long-term ecosystem sustainability.
 
-The project anticipates a future strategic capital raise of up to 100 million USD, sourced exclusively from the remaining 16,000,000 unminted tokens. No further funding rounds are planned beyond this allocation under the current supply framework.
+Valuation Perspective
+
+Market capitalization metrics are subject to fluctuation based on circulating supply and market pricing. Fully diluted valuation reflects the maximum supply multiplied by prevailing market prices and should be interpreted accordingly. Independent third-party valuation work has been conducted for internal and governance purposes, but such valuations should not be interpreted as guarantees of market value.
+
+Issuance Discipline
+
+The Dignity Gold initiative adopts a conservative issuance philosophy. Token releases are structured to avoid supply shocks and to align with operational milestones and governance oversight. There is no automated emission schedule, yield program, or inflationary reward mechanism associated with DIGau.
+
+Conclusion
+
+The DIGau tokenomics framework is designed to support long-term participation, transparency, and responsible growth. By emphasizing supply discipline, restricted legacy allocations, and measured capital formation, the project seeks to align digital asset participation with sustainable real-world development rather than short-term speculative activity.
