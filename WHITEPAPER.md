@@ -1,15 +1,17 @@
-Dignity Gold – Public Whitepaper Summary
+Dignity Gold – Public Whitepaper
 
 Dignity Gold is a real-world asset oriented digital asset initiative focused on the exploration, development, and long-term stewardship of precious metals, beginning with gold. The project is structured to align physical asset activity with disciplined digital asset issuance, emphasizing transparency, supply control, and long-term sustainability.
 
-The Dignity Gold initiative was originally formed in 2019 and has since undergone a restructuring and revitalization under new leadership. The current phase represents a reset of strategy, governance, and execution approach, with a focus on operational discipline and regulatory awareness.
+The initiative was originally formed in 2019 and has since undergone a restructuring and revitalization under new leadership. The current phase reflects a reset of strategy, governance, and execution approach, with a focus on operational discipline, regulatory awareness, and long-term value creation.
 
-DIGau is the primary digital asset within the Dignity ecosystem and is associated with gold-focused activities. Gold serves as the initial asset class due to its historical role as a store of value and its relevance to mining and resource development. Additional metals may be considered in the future as separate tokens under the Dignity umbrella, subject to operational milestones and internal approvals.
+Dignity Gold’s approach is grounded in the principle that digital assets associated with real-world activity should reflect underlying economic reality rather than speculative issuance. Token supply policies are designed conservatively, with an emphasis on predictability, scarcity, and alignment with tangible outcomes.
 
-The project’s approach to real-world asset representation is intentionally conservative. Token issuance policies are designed to prioritize long-term integrity over short-term liquidity. Supply decisions are structured to reflect real economic activity rather than speculative issuance.
+DIGau is the primary digital asset within the Dignity ecosystem and is associated with gold-focused activities. Gold was selected as the initial asset class due to its historical role as a store of value, its relevance to mining and resource development, and its global market recognition. Additional metals may be considered in the future as separate digital assets under the Dignity umbrella, subject to operational progress, internal approvals, and regulatory considerations.
 
-Dignity Gold maintains a long-term perspective on treasury management and ecosystem development. A significant portion of value generated through project activities is intended to be retained within the broader ecosystem to support sustainability, future growth, and operational continuity.
+The Dignity ecosystem is structured to support long-term development rather than short-term liquidity. Token issuance decisions, allocation frameworks, and release schedules are intended to balance historical continuity with future ecosystem needs. Certain token categories are subject to restrictions, lock-ups, or exclusion from open market trading in order to protect market integrity and prevent uncontrolled dilution.
 
-The project is chaired by David Weild IV, former Vice Chairman of NASDAQ, bringing experience in capital markets, governance, and public company oversight. Leadership involvement is focused on strategic direction and long-term positioning rather than short-term market activity.
+Treasury management and capital discipline are central to the project’s design. The project maintains a long-term perspective on value retention, reinvestment, and operational sustainability. Economic activity generated through exploration, development, and related initiatives is intended to support continued growth of the ecosystem over time.
 
-This document is intended to provide high-level context only and should be read in conjunction with the tokenomics and disclaimer materials included in this repository.
+The project is chaired by David Weild IV, former Vice Chairman of NASDAQ, bringing experience in capital markets, governance, and public company oversight. Leadership involvement is focused on strategic direction, governance standards, and long-term positioning rather than short-term market performance.
+
+This whitepaper is intended to provide general informational context regarding the Dignity Gold initiative. It should be read in conjunction with the tokenomics overview and disclaimer included in this repository. This document does not constitute an offer, solicitation, or recommendation of any kind.
